@@ -5,8 +5,8 @@
    This is a web automation script which takes your username and password and login into your account with just one click of the program.
    The framework used here is *Selenium* which does some automations for us like clicking the buttons and filling the input fields.
    
-   Make a chess.com account if you dont have to check this script.
-   In the script, place your username and password at the place of "Enter ypur username" and "enter your password" respectively.
+   Make a <a href="https://www.chess.com/login">chess.com</a> account if you dont have already to check this script.
+   In the script, place your username and password at the place of "Enter your username" and "enter your password" respectively.
    
 # Requirements:-
    1.Python should be installed in your system
