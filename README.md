@@ -1,5 +1,5 @@
 # Title:-
- _Automation bot using Python_
+###  _Automation bot using Python_
   
 # How it works:-
    This is a web automation script which takes your username and password and login into your account with just one click of the program.
@@ -19,15 +19,15 @@
 # Usage:-
    Clone this directory to your system using cmd by writing the following commands in cmd or powershell(git should be installed into your system)
    
-   ### step1:-
+   ### Step1:-
     pip install selenium
-   ### step2:-
+   ### Step2:-
     git clone https://github.com/amnvrma/automation_bots
     
-   ### step3:-
+   ### Step3:-
      cd automation_bots
     
-   ### step4:-
+   ### Step4:-
     python automation_bot.py
     
  # Note:- 
