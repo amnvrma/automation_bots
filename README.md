@@ -8,7 +8,7 @@
    Make a <a href="https://www.chess.com/login">chess.com</a> account if you dont have already to check this script.
    In the script, place your username and password at the place of "Enter your username" and "enter your password" respectively.
    
-   ### You can take reference of this script to make web automation scripts of more websites like gmail.facebook,etc.
+   ### You can take reference of this script to make web automation scripts of more websites like gmail,facebook,etc.
    
 # Requirements:-
    1.Python should be installed in your system
